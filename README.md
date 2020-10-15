@@ -1,4 +1,5 @@
 The database management MySQL projects use MySQL workbench and Jupyter Notebook to record MySQL codes.
+
 It includes:
 1. All W3schools SQL exercise and quiz practices.
 2. MySQL Sakila database practice.
